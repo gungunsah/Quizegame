@@ -32,7 +32,7 @@ User account information
 Chat history
 Session details
 Subscription status
-The project uses MongoDB, a NoSQL database that provides flexibility, scalability, and fast data retrieval. MongoDB allows efficient storage of structured and 
+The project uses MongoDB, database that provides flexibility, scalability, and fast data retrieval. MongoDB allows efficient storage of structured and 
 semi-structured data, making it ideal for chat-based applications.
 Payment Integration:-
 To support premium features, the platform integrates Stripe for handling digital payments securely and efficiently. Stripe enables:
